@@ -1,7 +1,7 @@
 ﻿
 public class 镜子 : MonoBehaviour
 
-{
+{   printf("老薛grate!,\n");
     public bool m_DisablePixelLights = true;
     public int m_TextureSize = 256;
     public float m_ClipPlaneOffset = 0.07f;
